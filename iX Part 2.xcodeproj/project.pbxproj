@@ -507,6 +507,7 @@
 				058E72F51ED4DDEE004B1D61 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		058E72F61ED4DDEE004B1D61 /* Build configuration list for PBXNativeTarget "iX Part 2Tests" */ = {
 			isa = XCConfigurationList;
@@ -515,6 +516,7 @@
 				058E72F81ED4DDEE004B1D61 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		058E72F91ED4DDEE004B1D61 /* Build configuration list for PBXNativeTarget "iX Part 2UITests" */ = {
 			isa = XCConfigurationList;
@@ -523,6 +525,7 @@
 				058E72FB1ED4DDEE004B1D61 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
